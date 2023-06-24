@@ -1,0 +1,10 @@
+.container{
+    box-shadow: 2px 5px 25px #020244;
+    border-radius: 20px;
+    border-color: #020244;
+}
+.btn{
+    color: #020244;
+    display: flex;
+    place-items: center;
+}
